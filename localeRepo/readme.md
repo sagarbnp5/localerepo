@@ -1,0 +1,1 @@
+#readme for locale repo first time
